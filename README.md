@@ -13,7 +13,7 @@
 
 ### Currently working on 👨‍💻
 
-[![CoreV Framework](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=corev-framework)](https://github.com/anuraghazra/github-readme-stats)
+[![CoreV Framework](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=corev-framework)](https://github.com/ThymonA/CoreV-Framework)
 
 ### Connect with me:
 
