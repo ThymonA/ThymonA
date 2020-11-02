@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ThymonA-lightgray?logo=github&style=for-the-badge)](https://github.com/ThymonA)
 [![GitLab](https://img.shields.io/badge/GitLab-ThymonA-orange?logo=gitlab&style=for-the-badge)](https://git.arens.io/ThymonA)
+[![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/733686533873467463)
 
 ## I'm a Software Developer!!
 
