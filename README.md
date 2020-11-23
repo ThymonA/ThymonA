@@ -14,8 +14,8 @@
 
 ### Currently working on 👨‍💻
 
-[![MenuV](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=menuv)](https://github.com/ThymonA/menuv)
-[![CoreV Framework](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=corev-framework)](https://github.com/ThymonA/CoreV-Framework)
+[![MenuV](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=menuv&q=2020)](https://github.com/ThymonA/menuv)
+[![CoreV Framework](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=corev-framework&q=2020)](https://github.com/ThymonA/CoreV-Framework)
 
 ### Connect with me:
 
