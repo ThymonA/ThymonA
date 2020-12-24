@@ -1,12 +1,11 @@
 ### Hi there, I'm Thymon - aka TigoDevelopment 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-ThymonA-lightgray?logo=github&style=for-the-badge)](https://github.com/ThymonA)
-[![GitLab](https://img.shields.io/badge/GitLab-ThymonA-orange?logo=gitlab&style=for-the-badge)](https://git.arens.io/ThymonA)
+[![ThymonA](https://i.imgur.com/X5ocARk.png)](https://github.com/ThymonA)
 [![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/733686533873467463)
 
 ## I'm a Software Developer!!
 
-- 👨‍💻 I'm currently working on: [MenuV](https://github.com/ThymonA/menuv) & [CoreV Framework](https://github.com/ThymonA/CoreV-Framework)
+- 👨‍💻 I'm currently working on: [MenuV](https://github.com/ThymonA/menuv)
 - 📖 I love open source projects 💙
 - 👴 I'm currently living 21 years on earth 🤣
 - 🥅 2020/2021 Goals: Contribute to open source projects and release own open source projects.
@@ -15,7 +14,6 @@
 ### Currently working on 👨‍💻
 
 [![MenuV](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=menuv&q=2020)](https://github.com/ThymonA/menuv)
-[![CoreV Framework](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=corev-framework&q=2020)](https://github.com/ThymonA/CoreV-Framework)
 
 ### Connect with me:
 
