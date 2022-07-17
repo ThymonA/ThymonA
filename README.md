@@ -1,27 +1,16 @@
-### Hi there, I'm Thymon - aka TigoDevelopment 👋
+### Hi there, I'm Thymon - aka Tigo 👋
 
-[![ThymonA](https://i.imgur.com/X5ocARk.png)](https://github.com/ThymonA)
-[![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/733686533873467463)
+[![ThymonA](https://i.imgur.com/X5ocARk.png)][github]
+[![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)][discord]
 
-## I'm a Software Developer!!
+## Hey ✋, this is me:
 
-- 👨‍💻 I'm currently working on: [MenuV](https://github.com/ThymonA/menuv)
-- 📖 I love open source projects 💙
-- 👴 I'm currently living 21 years on earth 🤣
-- 🥅 2020/2021 Goals: Contribute to open source projects and release own open source projects.
-- ⚡ Fun fact: I ❤️ to learn new things
-
-### Currently working on 👨‍💻
-
-[![MenuV](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=menuv&q=2020)](https://github.com/ThymonA/menuv)
-
-### Connect with me:
-
-[<img align="left" alt="ThymonA | Mail" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][mail]
-[<img align="left" alt="ThymonA | Discord" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/discord.svg" />][discord]
-[<img align="left" alt="ThymonA | LikedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" />][linkedin]
-
-<br />
+- 🧹 **Job** > Working as a chimney sweep
+- 👴 **Age** > Living 23 years on earth
+- 🥅 **Goals** > Release open source projects and contribute to projects.
+- 🧩 **Hobbies** > Working on cars and mopeds, writing code and playing games.
+- 🎵 **Music** > I like listing to: Volbeat, Iron Maiden, Steel Panther, Five Finger Death Punch and Metallica
+- 🎮 **Games** > Grand Theft Auto, Call of Duty, Skyrim and Magic The Gathering
 
 ### Languages and Tools:
 
@@ -44,8 +33,6 @@
 
 <img align="left" alt="ThymonA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThymonA&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
 
-[framework]: https://github.com/ThymonA/CoreV-Framework
-[mail]: mailto:contact@thymonarens.nl
 [discord]: https://discordapp.com/users/733686533873467463
 [repos]: https://github.com/ThymonA?tab=repositories
-[linkedin]: https://www.linkedin.com/in/thymonarens/
+[github]: https://github.com/ThymonA
